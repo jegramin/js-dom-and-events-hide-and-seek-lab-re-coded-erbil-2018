@@ -11,7 +11,7 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-  for (let i = 0; i < lis.length; i++) {
-  lis[i].innerHTML = (i + 1).toString()
+  let node = document.getElementById("grand-node");
+  let nextNode = .node.child[0]
 }
 }
